@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitranshk1301&label=Profile%20views&color=0e75b6&style=flat" alt="chitranshk1301" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chitranshk1301" alt="chitranshk1301" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/chitranshk13" target="blank"><img src="https://img.shields.io/twitter/follow/chitranshk13?logo=twitter&style=for-the-badge" alt="chitranshk13" /></a> </p>
 
 - 🏫 A **CS/IT student @ IIIT Bhopal**
 
 - 🌱 I’m currently trying my hands on - **MERN Stack**
 
-- ☕  **A Coffee Lover**
+- ☕ A **A Coffee Lover**
 
 - 📫 How to reach me **chitranshkulshrestha1301@gmail.com**
 
