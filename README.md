@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitranshk1301&show_icons=true&locale=en" alt="chitranshk1301" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitranshk1301&" alt="chitranshk1301" /></p>
+
+[![@chitranshk1301's Holopin board](https://holopin.me/chitranshk1301)](https://holopin.io/@chitranshk1301)
