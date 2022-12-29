@@ -7,9 +7,9 @@
 
 - 🏫 A **CS/IT student @ IIIT Bhopal**
 
-- 🌱 I’m currently trying my hands on - **MERN Stack**
+- 🌱 Currently trying my hands on - **MERN Stack**
 
-- ☕ A **A Coffee Lover**
+- ☕ **A Coffee Lover**
 
 - 📫 How to reach me **chitranshkulshrestha1301@gmail.com**
 
