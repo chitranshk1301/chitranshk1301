@@ -7,7 +7,7 @@
 
 - 🏫 A **CS/IT student @ IIIT Bhopal**
 
-- 🌱 Currently trying my hands on - **MERN Stack**
+- 🌱 Currently trying my hands on - **Full Stack**
 
 - ☕ **A Coffee Lover**
 
