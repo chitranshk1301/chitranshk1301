@@ -7,7 +7,7 @@
 
 - 🏫 A **CS/IT student @ IIIT Bhopal**
 
-- 🌱 Currently trying my hands on - **Full Stack**
+- 🌱 Currently trying my hands on - **Full Stack web development**
 
 - ☕ **A Coffee Lover**
 
