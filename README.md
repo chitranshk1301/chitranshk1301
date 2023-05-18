@@ -15,6 +15,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chitranshk1301&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chitranshk1301&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Hacktober 2022:
+[![An image of @chitranshk1301's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chitranshk1301)](https://holopin.io/@chitranshk1301)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
