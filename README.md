@@ -2,7 +2,7 @@
 <h3 align="center">A tech enthusiast and a passionate web developer.</h3>
 
 # 💫 About Me:
-##### 🏫 A CS/IT student @ IIIT Bhopal<br>🌱 Full stack web developer<br>☕ A coffee lover<br>📫 Contact E-mail: mailto:chitranshkulshrestha1301@gmail.com
+##### 🏫 A CS/IT student @ IIIT Bhopal<br>🌱 Full stack web developer<br>☕  A coffee lover<br>📫 Contact E-mail: mailto:chitranshkulshrestha1301@gmail.com
 
 
 ## 🌐 Socials:
