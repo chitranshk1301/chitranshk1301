@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chitransh Kulshrestha</h1>
+<h1 align="center">Hi 👋, I'm<span style="background-image: linear-gradient(to right, #ff0000, #0000ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Chitransh Kulshrestha</span>
+</h1>
 <h3 align="center">A tech enthusiast and a passionate web developer.</h3>
 <div align="center">
   <img align="center" src = "https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" width="300" height="200" alt="logo"/>
