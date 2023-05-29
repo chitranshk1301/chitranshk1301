@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chitransh Kulshrestha</h1>
 <h3 align="center">A tech enthusiast and a passionate web developer.</h3>
-<div><img src = "https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" alt="logo"/></div>
+<div style="text-align: center;"><img src = "https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" alt="logo"/></div>
 
 # 💫 About Me:
 #### 🏫 A CS/IT student @ IIIT Bhopal<br>🌱 Full stack web developer<br>☕  A coffee lover<br>📫 Contact E-mail: mailto:chitranshkulshrestha1301@gmail.com
