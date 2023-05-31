@@ -23,7 +23,7 @@
         <p align="center">
           <a href="[https://github.com/MansiMittal7/](https://github.com/chitranshk1301/)">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chitranshk1301&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" />
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranshk1301&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+          <img width="49.5%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitranshk1301&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
           </a>
        </p>
 
