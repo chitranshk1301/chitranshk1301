@@ -6,7 +6,7 @@
 </div>
 
 # 💫 About Me:
-#### 🏫 A CS/IT student @ IIIT Bhopal<br>🌱 Full stack web developer<br>☕  A coffee lover<br>📫 Contact E-mail: mailto:chitranshkulshrestha1301@gmail.com
+#### 🌱 Full stack web developer<br>☕  A coffee lover<br>📫 Contact E-mail: mailto:chitranshkulshrestha1301@gmail.com
 
 
 ## 🌐 Socials:
